@@ -1,0 +1,23 @@
+[project]
+name = "auiabsbhhhhhtlircpuimldoioeppppppp-py"
+version = "0.1.0"
+description = "A solid python implementation of AMONGUSISABIGSUSSYBAKAHAHAHAHAHATHISLANGUAGEISREALLYCOOLPLEASEUSEITMYLIFEDEPENDSONITORELSEPLSPLSPLSPLSPLSPLSPLSkahyghdfhmILLDIEIFYOUDONTUSEITSOPLEASEUSEITALSODONATETOMYGOFUNDMEBECAUSEIMGONNADIEBECAUSEYOUWONTUSETHISLANGUAGEURTHEIMPOSTORANDTHATISSUSIMGOINGTOCALLAMEETINGONYOUYOUVENTEDYOUSUSSYBAKA."
+authors = [
+    {name = "Cbass92"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "argparse (>=1.4.0,<2.0.0)"
+]
+[project.scripts]
+auiabsbhhhhhtlircpuimldoioeppppppp = 'auiabsbhhhhhtlircpuimldoioeppppppp.__main__:init'
+
+[tool.poetry]
+packages = [{include = "auiabsbhhhhhtlircpuimldoioeppppppp"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
